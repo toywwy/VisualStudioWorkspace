@@ -4,7 +4,6 @@ using namespace std;
 
 int main(void)
 {
-	printf("Hello New !!!\n");
-
+	cout<<Hello<<endl;
 	return 0;
 }
